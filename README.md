@@ -54,7 +54,15 @@ Pré-requisitos: Docker e Docker Compose instalados.
 
 ## 📸 Screenshots
 
+### 🏠 Tela Inicial
 
+Interface limpa e direta para encurtamento rápido.
+![Tela Inicial](assets/imagem1.png)
+
+### 🖥️ Dashboard de Analytics
+
+Visualização em tempo real dos cliques e performance dos links.
+![Dashboard Analytics](assets/imagem2.png)
 
 ## 📄 Licença
 
